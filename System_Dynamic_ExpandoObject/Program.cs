@@ -1,5 +1,4 @@
-﻿
-using System.Text.Json;
+﻿using System.Text.Json;
 
 dynamic var1 = new System.Dynamic.ExpandoObject();
 var1.name = "test";
